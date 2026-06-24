@@ -27,6 +27,7 @@ CLDR
 Cloudflare
 DOTADIW
 Docsmg
+DTCG
 GDTC
 GHES
 GHSA
@@ -84,7 +85,9 @@ asns
 backblazeb2
 cbor
 cloudflarestorage
+consolas
 copylefted
+culori
 cves
 describedby
 dialector
@@ -118,11 +121,13 @@ wasabisys
 LLM
 LLMS
 mcomplete
+menlo
 mermaidjs
 microsoft
 mmdb
 noopener
 noreferrer
+oklch
 oktadev
 openidc
 ouia
