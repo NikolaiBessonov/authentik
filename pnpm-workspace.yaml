@@ -4,6 +4,7 @@ packages:
   - "packages/eslint-config"
   - "packages/logger-js"
   - "packages/prettier-config"
+  - "packages/theme"
   - "packages/tsconfig"
   - "lifecycle/aws"
 
